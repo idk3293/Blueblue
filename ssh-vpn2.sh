@@ -93,7 +93,7 @@ commonname=www.aixxy.codes
 email=admin@aixxy.com
 
 # simple password minimal
-wget -q -O /etc/pam.d/common-password "https://raw.githubusercontent.com/NevermoreSSH/Blueblue/main/password"
+wget -q -O /etc/pam.d/common-password "https://raw.githubusercontent.com/idk3293/Blueblue/main/password"
 chmod +x /etc/pam.d/common-password
 
 # go to root
